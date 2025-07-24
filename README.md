@@ -1,2 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow
+My name is Elliott Dye. I'm 34 years old, and my favorite things to do are to surf and workout. I'm new to coding and find learning by video tutorial to be mundane, boring, and disengaging so I made a GitHub account to become engaged in real projects. The only way to truly learn is by doing. Toddlers learns so fast because they spend most of their waking hours at the edge of their ability level, pushing their limits, and failing upwards. Surfers can look at all the video tutorials on YouTube, but there is no substiture for paddling out and catching as many waves as possible. It's all about reps, reps, reps. Likewise, learning to code will also be about reps, reps, reps. 
